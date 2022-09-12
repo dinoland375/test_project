@@ -1,0 +1,1 @@
+global.play_the_game = !global.play_the_game;
